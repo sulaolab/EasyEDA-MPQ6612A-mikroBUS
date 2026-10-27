@@ -1,8 +1,8 @@
 # MPQ6612A mikroBUS PWM Audio Board (EasyEDA Pro)
 
 <p align="center">
-  <img src="MPQ6612A_mikroBUS_01/MPQ6612A_mikroBUS_01_front.png" alt="MPQ6612A mikroBUS PWM audio board rev.01, front side" width="44%">
-  <img src="MPQ6612A_mikroBUS_01/MPQ6612A_mikroBUS_01_back.png" alt="MPQ6612A mikroBUS PWM audio board rev.01, back side" width="44%">
+  <img src="MPQ6612A_mikroBUS_01/MPQ6612A_01_front.png" alt="MPQ6612A mikroBUS PWM audio board rev.01, front side" width="44%">
+  <img src="MPQ6612A_mikroBUS_01/MPQ6612A_01_back.png" alt="MPQ6612A mikroBUS PWM audio board rev.01, back side" width="44%">
 </p>
 <p align="center"><i>rev.01 - built and verified on hardware. Front and back 3D views.</i></p>
 
