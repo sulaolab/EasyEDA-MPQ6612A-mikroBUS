@@ -1,0 +1,7 @@
+*.eprj binary
+*.eprj2 binary
+*.pdf binary
+*.png binary
+
+*.md text eol=lf
+LICENSE text eol=lf
